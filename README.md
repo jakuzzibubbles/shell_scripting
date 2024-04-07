@@ -1,6 +1,3 @@
-# shell_script_bash
-
-
 # Backup Verification: 
 
 A script that verifies the integrity of backup archives by comparing their checksums or signatures. 
