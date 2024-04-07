@@ -33,8 +33,6 @@ It securely transfers files to the cloud, ensuring data availability in case of 
 
 ## Usage
 
-  Follow these steps to use the backup script:
-
   1. Ensure that the script `backup_to_s3.sh` is executable. If not, run `chmod +x backup_to_s3.sh` to make it executable.
 
   2. Open a terminal or command prompt and navigate to the directory where the script is located.
@@ -62,8 +60,6 @@ ensuring data confidentiality during transfer.
 
   ## Usage
 
-  Follow these steps to use the secure file transfer script:
-
   1. Ensure that the script `secure_file_transfer.sh` is executable. If not, run `chmod +x secure_file_transfer.sh` to make it executable.
 
   2. Open a terminal or command prompt and navigate to the directory where the script is located.
@@ -84,8 +80,6 @@ An interactive script that automates custom workflows by performing various task
 It allows users to define specific actions or processes to streamline their work or daily tasks.
 
   ## Usage
-
-  Follow these steps to use the custom workflow automation script:
 
   1. Ensure that the script `custom_workflow_automation.sh` is executable. If not, run `chmod +x custom_workflow_automation.sh` to make it executable.
 
