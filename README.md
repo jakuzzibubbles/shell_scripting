@@ -8,10 +8,7 @@ Follow these steps to use the backup script:
 
 1. Open a text editor and paste the script into a new file. Save the file with a `.sh` extension, for example, `backup_script.sh`.
 
-2. Make the script executable by running the following command in your terminal or command prompt:
-   
-   ```bash
-   chmod +x backup_script.sh
+2. Make the script executable by running the following command in your terminal or command prompt `chmod +x backup_script.sh` .
 
 
 
