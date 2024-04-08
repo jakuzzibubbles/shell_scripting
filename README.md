@@ -1,6 +1,6 @@
 # Backup
 
-This script allows you to quickly and easily create backups of a directory on your system. It prompts you to specify the directory you want to backup and the destination directory for the backups.
+A script to quickly and easily create backups of a directory on your system. It prompts to specify the directory you want to backup and the destination directory for the backups.
 
 ## Usage
 
