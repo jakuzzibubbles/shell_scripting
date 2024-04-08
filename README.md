@@ -1,21 +1,21 @@
-# Backup Verification: 
+# Backup
 
-A script that verifies the integrity of backup archives by comparing their checksums or signatures. 
-It ensures the reliability of backup data by checking for any corruption or tampering.
+This script allows you to quickly and easily create backups of a directory on your system. It prompts you to specify the directory you want to backup and the destination directory for the backups.
 
-  ## Usage
+## Usage
 
-  1. Ensure that the script `backup_verification.sh` is executable. If not, run `chmod +x backup_verification.sh` to make it executable.
+Follow these steps to use the backup script:
 
-  2. Open a terminal or command prompt and navigate to the directory where the script is located.
+1. Open a text editor and paste the script into a new file. Save the file with a `.sh` extension, for example, `backup_script.sh`.
 
-  3. Run the script by typing the command `./backup_verification.sh`.
+2. Make the script executable by running the following command in your terminal or command prompt:
+   
+   ```bash
+   chmod +x backup_script.sh
 
-  4. The script will now verify the integrity of the backup archives in the current directory and provide information on the verification process.
 
 
-
-# Automatic Backup to Amazon S3: 
+# Backup to Amazon S3: 
 
 This script automates the process of backing up important data to Amazon S3 or another cloud storage service. 
 It securely transfers files to the cloud, ensuring data availability in case of system failures or data loss.
